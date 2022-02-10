@@ -1,4 +1,4 @@
-document.onLoad = hi()
+document.onLoad = hi();
 
 
 function hi() {
