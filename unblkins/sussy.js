@@ -1,9 +1,9 @@
-var NewThing = document.createElement("video");
+var susvid = document.createElement("video");
 
-document.write(NewThing);
-
-NewThing.src = "https://blzby1.github.io/unblkins/sussy.mp4";
-NewThing.setAttribute("style","width:100%;height:100%;border-style:none;");
-NewThing.autoplay = true;
+susvid.src = "https://blzby1.github.io/unblkins/sussy.mp4";
+susvid.setAttribute("style","width:100%;height:100%;border-style:none;");
+susvid.autoplay = true;
+document.write("HEHEHEHAAA")
+susvid.body.appendChild(NewThing)
 
 // very, very sus. use at your own risk
