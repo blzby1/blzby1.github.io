@@ -1,2 +1,4 @@
 # blzby1.github.io
-silly website (crazy quirky emoji)
+this is my site where i post stuff
+it is primarily for making the most out of a chromebook
+## silly website 🤪 🤪 🤪 🤪 🤪 🤪 🤪
